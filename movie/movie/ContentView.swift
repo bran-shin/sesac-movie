@@ -16,6 +16,9 @@ struct ContentView: View {
             Text("ㅈ졸리다..")
         }
         .padding()
+        
+        
+        
     }
 }
 
