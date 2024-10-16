@@ -10,5 +10,7 @@ import SwiftUI
 struct MediaDetailView: View {
     var body: some View {
         Text("asdfasdfasdfasdf")
+        
+        
     }
 }
